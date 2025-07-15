@@ -66,7 +66,7 @@ pip install -r requirements.txt
 # 4. Launch the Streamlit app
 streamlit run app.py
 
-📸 How It Works
+### 📸 How It Works
 The system uses your webcam and a YOLOv8 model to detect:
 
 Face presence
@@ -79,7 +79,7 @@ Incidents are captured as screenshots and logged
 
 Admin can view detailed session analytics
 
-Folder Structure
+### Folder Structure
 perl
 Copy
 Edit
@@ -93,13 +93,13 @@ virtual-proctoring-system/
 ├── README.md
 └── app.py            
 
-📬 Contact
+### 📬 Contact
 Ayesha Imran
 📧 Email: ayeshaimran9797@gmail.com
 🔗 LinkedIn: linkedin.com/in/ayesha-imran-3a5265369
 💻 GitHub: github.com/ayesha9753
 
-✅ Future Enhancements
+### ✅ Future Enhancements
 Replace local storage with a secure database (MongoDB or Firebase)
 
 Add JWT-based authentication
@@ -108,5 +108,5 @@ Live video streaming for advanced proctoring
 
 Integration with Learning Management Systems (LMS)
 
-⚠️ Disclaimer
+### ⚠️ Disclaimer
 This project is developed for educational and research purposes only. Not intended for production use without further security and performance tuning.
