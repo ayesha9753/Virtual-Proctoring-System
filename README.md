@@ -1,5 +1,8 @@
 # 🎓 Virtual Proctoring System
 
+![Implementation](implementation.svg)
+
+
 An AI-powered Virtual Proctoring System developed using **Streamlit**, **YOLOv8**, and **OpenCV**. This application simulates a secure online examination environment, providing real-time monitoring, student tracking, and incident reporting — all through a user-friendly web interface.
 
 ---
